@@ -40,6 +40,8 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
+
+# Server should by default run on port 3000. `localhost:3000` and in order to access Swagger, go to `localhost:3000/api`
 ```
 
 ## Support
