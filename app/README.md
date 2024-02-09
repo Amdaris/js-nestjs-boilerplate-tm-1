@@ -44,11 +44,11 @@ $ npm run start:dev
 
 Locally:
 
-- App should be started at `http://127.0.0.1:3000` and swagger documentation you can find at `/swagger`
+- App should be started at `http://127.0.0.1:3000` and swagger documentation you can find at `/api`
 
 Codespaces:
 
-- You should see a popup telling you app started at `http://127.0.0.1:3000` prompting you to `Open in Browser`, which will forward that to a public url that you can access. Swagger documentation can be found at `/swagger`
+- You should see a popup telling you app started at `http://127.0.0.1:3000` prompting you to `Open in Browser`, which will forward that to a public url that you can access. Swagger documentation can be found at `/api`
 
 ## Support
 
